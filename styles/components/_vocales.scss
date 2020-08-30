@@ -1,0 +1,64 @@
+.vocales {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    .title {
+        width: 100%;
+        padding: 20px;
+        background-color: $blue;
+        text-align: center;
+        font-size: 2rem;
+    }
+    .works-options {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        .work-item {
+            flex: 1;
+            text-align: center;
+            margin-top: 5rem;
+            padding: 30px 0;
+            font-size: 2rem;
+            transition: all 0.7s ease;
+            &:nth-child(1) {
+                background-color: $yellow;
+                &:hover {
+                    flex: 2;
+                }
+            }
+            &:nth-child(2) {
+                background-color: $green;
+                &:hover {
+                    flex: 2;
+                }
+            }
+            &:nth-child(3) {
+                background-color: $blue;
+                &:hover {
+                    flex: 2;
+                }
+            }
+            &:nth-child(4) {
+                background-color: $violet;
+                &:hover {
+                    flex: 2;
+                }
+            }
+            &:nth-child(5) {
+                background-color: $red;
+                &:hover {
+                    flex: 2;
+                }
+            }
+            .h2 {
+                cursor: pointer;
+            }
+        }
+    }
+    .back {
+        position: absolute;
+        top: 10px;
+        right: 10px;
+    }
+}
