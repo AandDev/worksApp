@@ -78,7 +78,7 @@
   font-size: 2rem;
 }
 
-.content .works-options {
+.content .words-options {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -90,7 +90,7 @@
           align-items: center;
 }
 
-.content .works-options .work-item {
+.content .words-options .word-item {
   -webkit-box-flex: 1;
       -ms-flex: 1;
           flex: 1;
@@ -102,57 +102,57 @@
   transition: all 0.7s ease;
 }
 
-.content .works-options .work-item:nth-child(1) {
+.content .words-options .word-item:nth-child(1) {
   background-color: #FFD600;
 }
 
-.content .works-options .work-item:nth-child(1):hover {
+.content .words-options .word-item:nth-child(1):hover {
   -webkit-box-flex: 2;
       -ms-flex: 2;
           flex: 2;
 }
 
-.content .works-options .work-item:nth-child(2) {
+.content .words-options .word-item:nth-child(2) {
   background-color: #2bdd52;
 }
 
-.content .works-options .work-item:nth-child(2):hover {
+.content .words-options .word-item:nth-child(2):hover {
   -webkit-box-flex: 2;
       -ms-flex: 2;
           flex: 2;
 }
 
-.content .works-options .work-item:nth-child(3) {
+.content .words-options .word-item:nth-child(3) {
   background-color: #2EADF4;
 }
 
-.content .works-options .work-item:nth-child(3):hover {
+.content .words-options .word-item:nth-child(3):hover {
   -webkit-box-flex: 2;
       -ms-flex: 2;
           flex: 2;
 }
 
-.content .works-options .work-item:nth-child(4) {
+.content .words-options .word-item:nth-child(4) {
   background-color: #CD2EF4;
 }
 
-.content .works-options .work-item:nth-child(4):hover {
+.content .words-options .word-item:nth-child(4):hover {
   -webkit-box-flex: 2;
       -ms-flex: 2;
           flex: 2;
 }
 
-.content .works-options .work-item:nth-child(5) {
+.content .words-options .word-item:nth-child(5) {
   background-color: #F42E2E;
 }
 
-.content .works-options .work-item:nth-child(5):hover {
+.content .words-options .word-item:nth-child(5):hover {
   -webkit-box-flex: 2;
       -ms-flex: 2;
           flex: 2;
 }
 
-.content .works-options .work-item .work-btn {
+.content .words-options .word-item .word-btn {
   padding: 10px 50px;
   border: none;
   background: none;
@@ -230,7 +230,7 @@
   font-size: 2rem;
 }
 
-.consonantes .works-options {
+.consonantes .words-options {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -242,7 +242,7 @@
           align-items: center;
 }
 
-.consonantes .works-options .work-item {
+.consonantes .words-options .word-item {
   -webkit-box-flex: 1;
       -ms-flex: 1;
           flex: 1;
@@ -254,57 +254,57 @@
   transition: all 0.7s ease;
 }
 
-.consonantes .works-options .work-item:nth-child(1) {
+.consonantes .words-options .word-item:nth-child(1) {
   background-color: #FFD600;
 }
 
-.consonantes .works-options .work-item:nth-child(1):hover {
+.consonantes .words-options .word-item:nth-child(1):hover {
   -webkit-box-flex: 2;
       -ms-flex: 2;
           flex: 2;
 }
 
-.consonantes .works-options .work-item:nth-child(2) {
+.consonantes .words-options .word-item:nth-child(2) {
   background-color: #2bdd52;
 }
 
-.consonantes .works-options .work-item:nth-child(2):hover {
+.consonantes .words-options .word-item:nth-child(2):hover {
   -webkit-box-flex: 2;
       -ms-flex: 2;
           flex: 2;
 }
 
-.consonantes .works-options .work-item:nth-child(3) {
+.consonantes .words-options .word-item:nth-child(3) {
   background-color: #2EADF4;
 }
 
-.consonantes .works-options .work-item:nth-child(3):hover {
+.consonantes .words-options .word-item:nth-child(3):hover {
   -webkit-box-flex: 2;
       -ms-flex: 2;
           flex: 2;
 }
 
-.consonantes .works-options .work-item:nth-child(4) {
+.consonantes .words-options .word-item:nth-child(4) {
   background-color: #CD2EF4;
 }
 
-.consonantes .works-options .work-item:nth-child(4):hover {
+.consonantes .words-options .word-item:nth-child(4):hover {
   -webkit-box-flex: 2;
       -ms-flex: 2;
           flex: 2;
 }
 
-.consonantes .works-options .work-item:nth-child(5) {
+.consonantes .words-options .word-item:nth-child(5) {
   background-color: #F42E2E;
 }
 
-.consonantes .works-options .work-item:nth-child(5):hover {
+.consonantes .words-options .word-item:nth-child(5):hover {
   -webkit-box-flex: 2;
       -ms-flex: 2;
           flex: 2;
 }
 
-.consonantes .works-options .work-item .work-btn {
+.consonantes .words-options .word-item .word-btn {
   padding: 10px 50px;
   border: none;
   background: none;
